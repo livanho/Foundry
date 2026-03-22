@@ -7,7 +7,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/sphireinc/foundry)
 
 <p align="center">
-  <img height="300" src="logo.png" alt="logo">
+  <img height="300" src="readme-assets/logo.png" alt="logo">
 </p>
 
 Foundry is a Markdown-first CMS written in Go. It keeps content in files, renders through themes, extends through plugins, and supports both static output and local preview serving.
